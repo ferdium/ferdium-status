@@ -9,6 +9,8 @@ sites:
     url: https://api.ferdium.org
   - name: Debugger
     url: https://debug.ferdium.org
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
