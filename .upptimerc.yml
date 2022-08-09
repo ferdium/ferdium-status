@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Ferdium Status
   introTitle: "**Ferdium Status** shows all service status for [Ferdium](https://ferdium.org)."
-  introMessage: All system status:
+  introMessage: All system status.
   i18n:
     footer: Powered by [Ferdium](https://ferdium.org)
   navbar:
