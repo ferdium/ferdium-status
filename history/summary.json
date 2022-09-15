@@ -4,19 +4,19 @@
     "url": "https://ferdium.org",
     "icon": "https://favicons.githubusercontent.com/ferdium.org",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 478,
-    "timeDay": 573,
-    "timeWeek": 495,
-    "timeMonth": 483,
-    "timeYear": 478,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 475,
+    "timeDay": 502,
+    "timeWeek": 480,
+    "timeMonth": 479,
+    "timeYear": 475,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 11
     }
   },
   {
