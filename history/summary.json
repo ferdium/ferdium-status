@@ -4,10 +4,10 @@
     "url": "https://ferdium.org",
     "icon": "https://icons.duckduckgo.com/ip3/ferdium.org.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 472,
@@ -15,16 +15,18 @@
     "timeWeek": 507,
     "timeMonth": 467,
     "timeYear": 472,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-14": 1
+    }
   },
   {
     "name": "API (Server)",
     "url": "https://api.ferdium.org",
     "icon": "https://icons.duckduckgo.com/ip3/api.ferdium.org.ico",
     "slug": "api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 740,
     "timeMonth": 715,
     "timeYear": 710,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-14": 0
+    }
   },
   {
     "name": "Debugger",
