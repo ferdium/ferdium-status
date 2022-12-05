@@ -62,17 +62,19 @@
     "url": "https://translator.ferdium.org",
     "icon": "https://icons.duckduckgo.com/ip3/translator.ferdium.org.ico",
     "slug": "translator",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 738,
-    "timeDay": 448,
-    "timeWeek": 554,
-    "timeMonth": 633,
-    "timeYear": 738,
-    "dailyMinutesDown": {}
+    "time": 736,
+    "timeDay": 495,
+    "timeWeek": 553,
+    "timeMonth": 630,
+    "timeYear": 736,
+    "dailyMinutesDown": {
+      "2022-12-05": 0
+    }
   }
 ]
