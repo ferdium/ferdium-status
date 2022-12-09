@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 439,
-    "timeDay": 158,
-    "timeWeek": 285,
-    "timeMonth": 338,
-    "timeYear": 439,
+    "time": 437,
+    "timeDay": 234,
+    "timeWeek": 267,
+    "timeMonth": 335,
+    "timeYear": 437,
     "dailyMinutesDown": {
       "2022-11-14": 27
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.ferdium.org.ico",
     "slug": "api-server",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
-    "time": 674,
-    "timeDay": 426,
-    "timeWeek": 502,
-    "timeMonth": 565,
-    "timeYear": 674,
+    "uptimeYear": "99.99%",
+    "time": 673,
+    "timeDay": 580,
+    "timeWeek": 506,
+    "timeMonth": 559,
+    "timeYear": 673,
     "dailyMinutesDown": {
       "2022-11-14": 26
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 631,
-    "timeDay": 441,
+    "timeDay": 616,
     "timeWeek": 520,
-    "timeMonth": 549,
+    "timeMonth": 550,
     "timeYear": 631,
     "dailyMinutesDown": {}
   },
@@ -68,11 +68,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 729,
-    "timeDay": 556,
-    "timeWeek": 525,
+    "time": 728,
+    "timeDay": 642,
+    "timeWeek": 522,
     "timeMonth": 597,
-    "timeYear": 729,
+    "timeYear": 728,
     "dailyMinutesDown": {
       "2022-12-05": 20
     }
