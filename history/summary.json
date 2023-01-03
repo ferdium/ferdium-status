@@ -24,10 +24,10 @@
     "url": "https://api.ferdium.org",
     "icon": "https://icons.duckduckgo.com/ip3/api.ferdium.org.ico",
     "slug": "api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 652,
@@ -36,6 +36,7 @@
     "timeMonth": 534,
     "timeYear": 652,
     "dailyMinutesDown": {
+      "2023-01-03": 1,
       "2022-11-14": 26
     }
   },
@@ -44,10 +45,10 @@
     "url": "https://debug.ferdium.org",
     "icon": "https://icons.duckduckgo.com/ip3/debug.ferdium.org.ico",
     "slug": "debugger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 616,
@@ -55,16 +56,18 @@
     "timeWeek": 559,
     "timeMonth": 532,
     "timeYear": 616,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-03": 1
+    }
   },
   {
     "name": "Translator",
     "url": "https://translator.ferdium.org",
     "icon": "https://icons.duckduckgo.com/ip3/translator.ferdium.org.ico",
     "slug": "translator",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.93%",
@@ -74,6 +77,7 @@
     "timeMonth": 601,
     "timeYear": 699,
     "dailyMinutesDown": {
+      "2023-01-03": 0,
       "2023-01-01": 21,
       "2022-12-30": 17,
       "2022-12-26": 17,
