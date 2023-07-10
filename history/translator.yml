@@ -1,7 +1,7 @@
 url: https://translator.ferdium.org
-status: up
-code: 200
-responseTime: 945
-lastUpdated: 2023-07-09T23:14:42.904Z
+status: down
+code: 502
+responseTime: 406
+lastUpdated: 2023-07-10T20:00:08.151Z
 startTime: Thu Aug 11 2022 09:01:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
