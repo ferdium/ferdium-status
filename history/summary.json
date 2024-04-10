@@ -22,9 +22,9 @@
     "url": "https://api.ferdium.org",
     "icon": "https://icons.duckduckgo.com/ip3/api.ferdium.org.ico",
     "slug": "api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 677,
     "timeYear": 593,
     "dailyMinutesDown": {
+      "2024-04-10": 0,
       "2024-01-11": 18
     }
   },
@@ -42,9 +43,9 @@
     "url": "https://debug.ferdium.org",
     "icon": "https://icons.duckduckgo.com/ip3/debug.ferdium.org.ico",
     "slug": "debugger",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,6 +55,7 @@
     "timeMonth": 661,
     "timeYear": 571,
     "dailyMinutesDown": {
+      "2024-04-10": 0,
       "2024-01-11": 18
     }
   },
