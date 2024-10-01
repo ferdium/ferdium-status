@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 404,
-    "timeDay": 429,
-    "timeWeek": 426,
+    "timeDay": 412,
+    "timeWeek": 447,
     "timeMonth": 445,
-    "timeYear": 448,
+    "timeYear": 449,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 654,
-    "timeDay": 668,
-    "timeWeek": 681,
-    "timeMonth": 637,
-    "timeYear": 689,
+    "timeDay": 735,
+    "timeWeek": 687,
+    "timeMonth": 645,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2024-05-10": 24,
       "2024-01-11": 18
@@ -50,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 624,
-    "timeDay": 787,
-    "timeWeek": 667,
+    "timeDay": 734,
+    "timeWeek": 703,
     "timeMonth": 670,
-    "timeYear": 651,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2024-05-10": 24,
       "2024-01-11": 18
@@ -66,17 +66,17 @@
     "slug": "translator",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 695,
-    "timeDay": 656,
-    "timeWeek": 752,
-    "timeMonth": 740,
+    "timeDay": 652,
+    "timeWeek": 757,
+    "timeMonth": 744,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2024-09-30": 30,
+      "2024-09-30": 19,
       "2024-04-26": 17,
       "2024-01-11": 18
     }
