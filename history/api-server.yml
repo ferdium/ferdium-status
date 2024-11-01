@@ -1,7 +1,7 @@
 url: https://api.ferdium.org
-status: up
-code: 200
-responseTime: 531
-lastUpdated: 2024-11-01T13:50:00.966Z
+status: down
+code: 500
+responseTime: 794
+lastUpdated: 2024-11-01T14:51:41.360Z
 startTime: 2022-08-09T10:34:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
