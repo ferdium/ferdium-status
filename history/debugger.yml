@@ -1,7 +1,7 @@
 url: https://debug.ferdium.org
-status: up
-code: 200
-responseTime: 855
-lastUpdated: 2024-12-13T23:17:36.241Z
+status: down
+code: 500
+responseTime: 625
+lastUpdated: 2024-12-14T16:07:35.861Z
 startTime: 2022-08-09T10:34:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
