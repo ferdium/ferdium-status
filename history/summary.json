@@ -22,7 +22,7 @@
     "url": "https://api.ferdium.org",
     "icon": "https://icons.duckduckgo.com/ip3/api.ferdium.org.ico",
     "slug": "api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "93.78%",
     "uptimeWeek": "99.11%",
@@ -117,7 +117,7 @@
     "timeMonth": 902,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2024-12-14": 1138,
+      "2024-12-14": 1155,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
       "2024-12-11": 1440,
