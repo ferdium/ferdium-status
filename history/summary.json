@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 464,
-    "timeDay": 552,
-    "timeWeek": 558,
-    "timeMonth": 538,
-    "timeYear": 477,
+    "timeDay": 573,
+    "timeWeek": 573,
+    "timeMonth": 543,
+    "timeYear": 478,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.62%",
     "time": 774,
-    "timeDay": 5006,
-    "timeWeek": 1618,
-    "timeMonth": 974,
+    "timeDay": 1013,
+    "timeWeek": 1650,
+    "timeMonth": 984,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2025-05-09": 20,
@@ -72,8 +72,7 @@
       "2024-10-16": 99,
       "2024-10-15": 1,
       "2024-10-14": 20,
-      "2024-10-12": 36,
-      "2024-05-10": 24
+      "2024-10-12": 36
     }
   },
   {
@@ -87,11 +86,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.70%",
-    "time": 718,
-    "timeDay": 649,
-    "timeWeek": 693,
-    "timeMonth": 763,
-    "timeYear": 742,
+    "time": 719,
+    "timeDay": 895,
+    "timeWeek": 748,
+    "timeMonth": 774,
+    "timeYear": 744,
     "dailyMinutesDown": {
       "2025-05-09": 19,
       "2025-05-02": 20,
@@ -123,8 +122,7 @@
       "2024-10-21": 31,
       "2024-10-20": 17,
       "2024-10-17": 30,
-      "2024-10-12": 44,
-      "2024-05-10": 24
+      "2024-10-12": 44
     }
   },
   {
@@ -133,18 +131,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/translator.ferdium.org.ico",
     "slug": "translator",
     "status": "down",
-    "uptime": "81.05%",
+    "uptime": "81.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "48.07%",
+    "uptimeYear": "47.98%",
     "time": 820,
-    "timeDay": 621,
-    "timeWeek": 719,
-    "timeMonth": 801,
+    "timeDay": 717,
+    "timeWeek": 766,
+    "timeMonth": 805,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2025-05-09": 1049,
+      "2025-05-10": 102,
+      "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
