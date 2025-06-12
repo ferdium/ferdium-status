@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 468,
+    "time": 467,
     "timeDay": 524,
     "timeWeek": 481,
     "timeMonth": 467,
-    "timeYear": 474,
+    "timeYear": 473,
     "dailyMinutesDown": {}
   },
   {
@@ -144,7 +144,7 @@
     "slug": "translator",
     "status": "up",
     "uptime": "78.37%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "0.03%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "38.69%",
