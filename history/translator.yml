@@ -1,7 +1,7 @@
 url: https://translator.ferdium.org/spec
-status: down
-code: 502
-responseTime: 4033
-lastUpdated: 2025-08-10T23:19:43.762Z
+status: up
+code: 200
+responseTime: 511
+lastUpdated: 2025-08-11T09:01:43.525Z
 startTime: 2022-08-11T09:01:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
