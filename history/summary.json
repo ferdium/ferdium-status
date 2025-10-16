@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 496,
-    "timeDay": 492,
-    "timeWeek": 550,
-    "timeMonth": 644,
-    "timeYear": 504,
+    "time": 497,
+    "timeDay": 415,
+    "timeWeek": 551,
+    "timeMonth": 642,
+    "timeYear": 502,
     "dailyMinutesDown": {}
   },
   {
@@ -27,12 +27,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.78%",
     "uptimeMonth": "99.44%",
-    "uptimeYear": "99.35%",
-    "time": 876,
-    "timeDay": 817,
-    "timeWeek": 816,
-    "timeMonth": 806,
-    "timeYear": 905,
+    "uptimeYear": "99.37%",
+    "time": 875,
+    "timeDay": 636,
+    "timeWeek": 802,
+    "timeMonth": 809,
+    "timeYear": 906,
     "dailyMinutesDown": {
       "2025-10-10": 123,
       "2025-09-17": 124,
@@ -81,8 +81,7 @@
       "2024-10-21": 31,
       "2024-10-20": 31,
       "2024-10-18": 16,
-      "2024-10-17": 30,
-      "2024-10-16": 99
+      "2024-10-17": 30
     }
   },
   {
@@ -93,14 +92,14 @@
     "status": "up",
     "uptime": "97.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "63.78%",
+    "uptimeWeek": "78.05%",
     "uptimeMonth": "23.96%",
     "uptimeYear": "93.14%",
-    "time": 754,
-    "timeDay": 826,
-    "timeWeek": 749,
-    "timeMonth": 768,
-    "timeYear": 765,
+    "time": 755,
+    "timeDay": 666,
+    "timeWeek": 755,
+    "timeMonth": 769,
+    "timeYear": 766,
     "dailyMinutesDown": {
       "2025-10-10": 874,
       "2025-10-09": 1440,
@@ -173,18 +172,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/translator.ferdium.org.ico",
     "slug": "translator",
     "status": "down",
-    "uptime": "70.07%",
+    "uptime": "70.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "4.97%",
+    "uptimeYear": "4.71%",
     "time": 1189,
-    "timeDay": 842,
-    "timeWeek": 696,
+    "timeDay": 653,
+    "timeWeek": 716,
     "timeMonth": 733,
-    "timeYear": 1339,
+    "timeYear": 1337,
     "dailyMinutesDown": {
-      "2025-10-15": 103,
+      "2025-10-16": 102,
+      "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -538,8 +538,7 @@
       "2024-10-21": 31,
       "2024-10-20": 48,
       "2024-10-18": 16,
-      "2024-10-17": 30,
-      "2024-10-16": 99
+      "2024-10-17": 30
     }
   }
 ]
