@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 496,
-    "timeDay": 195,
-    "timeWeek": 429,
-    "timeMonth": 619,
-    "timeYear": 501,
+    "timeDay": 396,
+    "timeWeek": 393,
+    "timeMonth": 618,
+    "timeYear": 502,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "api-server",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "98.47%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "99.37%",
-    "time": 876,
-    "timeDay": 558,
-    "timeWeek": 699,
-    "timeMonth": 779,
-    "timeYear": 906,
+    "uptimeYear": "99.38%",
+    "time": 875,
+    "timeDay": 555,
+    "timeWeek": 649,
+    "timeMonth": 772,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2025-10-19": 22,
       "2025-10-10": 123,
@@ -78,8 +78,7 @@
       "2024-11-04": 26,
       "2024-11-01": 20,
       "2024-10-27": 17,
-      "2024-10-23": 144,
-      "2024-10-21": 31
+      "2024-10-23": 144
     }
   },
   {
@@ -91,12 +90,12 @@
     "uptime": "97.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "32.51%",
-    "uptimeYear": "93.14%",
-    "time": 754,
-    "timeDay": 506,
-    "timeWeek": 680,
-    "timeMonth": 742,
+    "uptimeMonth": "35.78%",
+    "uptimeYear": "93.15%",
+    "time": 753,
+    "timeDay": 572,
+    "timeWeek": 610,
+    "timeMonth": 746,
     "timeYear": 764,
     "dailyMinutesDown": {
       "2025-10-10": 874,
@@ -158,8 +157,7 @@
       "2024-11-04": 25,
       "2024-11-01": 63,
       "2024-10-27": 21,
-      "2024-10-23": 124,
-      "2024-10-21": 31
+      "2024-10-23": 124
     }
   },
   {
@@ -168,18 +166,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/translator.ferdium.org.ico",
     "slug": "translator",
     "status": "down",
-    "uptime": "69.77%",
+    "uptime": "69.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "3.63%",
+    "uptimeYear": "3.36%",
     "time": 1186,
-    "timeDay": 526,
-    "timeWeek": 628,
-    "timeMonth": 697,
-    "timeYear": 1334,
+    "timeDay": 586,
+    "timeWeek": 614,
+    "timeMonth": 685,
+    "timeYear": 1332,
     "dailyMinutesDown": {
-      "2025-10-20": 109,
+      "2025-10-21": 104,
+      "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -534,8 +533,7 @@
       "2024-11-02": 1440,
       "2024-11-01": 523,
       "2024-10-27": 30,
-      "2024-10-23": 152,
-      "2024-10-21": 31
+      "2024-10-23": 152
     }
   }
 ]
