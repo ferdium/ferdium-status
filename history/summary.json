@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 506,
-    "timeDay": 656,
-    "timeWeek": 533,
-    "timeMonth": 741,
+    "time": 507,
+    "timeDay": 610,
+    "timeWeek": 561,
+    "timeMonth": 745,
     "timeYear": 514,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.42%",
     "time": 877,
-    "timeDay": 835,
-    "timeWeek": 774,
-    "timeMonth": 772,
+    "timeDay": 940,
+    "timeWeek": 830,
+    "timeMonth": 779,
     "timeYear": 913,
     "dailyMinutesDown": {
       "2025-10-19": 22,
@@ -75,8 +75,7 @@
       "2024-11-14": 17,
       "2024-11-13": 47,
       "2024-11-10": 17,
-      "2024-11-04": 26,
-      "2024-11-01": 20
+      "2024-11-04": 26
     }
   },
   {
@@ -88,13 +87,13 @@
     "uptime": "97.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "65.37%",
+    "uptimeMonth": "68.67%",
     "uptimeYear": "93.18%",
-    "time": 753,
-    "timeDay": 878,
-    "timeWeek": 766,
-    "timeMonth": 734,
-    "timeYear": 762,
+    "time": 754,
+    "timeDay": 1014,
+    "timeWeek": 813,
+    "timeMonth": 743,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2025-10-10": 874,
       "2025-10-09": 1440,
@@ -152,8 +151,7 @@
       "2024-11-13": 25,
       "2024-11-11": 18,
       "2024-11-10": 17,
-      "2024-11-04": 25,
-      "2024-11-01": 63
+      "2024-11-04": 25
     }
   },
   {
@@ -162,18 +160,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/translator.ferdium.org.ico",
     "slug": "translator",
     "status": "down",
-    "uptime": "69.12%",
+    "uptime": "69.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.66%",
-    "time": 1271,
-    "timeDay": 961,
-    "timeWeek": 734,
-    "timeMonth": 678,
+    "uptimeYear": "0.39%",
+    "time": 1272,
+    "timeDay": 998,
+    "timeWeek": 789,
+    "timeMonth": 694,
     "timeYear": 1326,
     "dailyMinutesDown": {
-      "2025-10-31": 105,
+      "2025-11-01": 109,
+      "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -536,8 +535,7 @@
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
-      "2024-11-02": 1440,
-      "2024-11-01": 523
+      "2024-11-02": 1440
     }
   }
 ]
