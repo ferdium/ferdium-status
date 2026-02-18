@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 503,
-    "timeDay": 444,
-    "timeWeek": 451,
-    "timeMonth": 443,
-    "timeYear": 520,
+    "timeDay": 397,
+    "timeWeek": 426,
+    "timeMonth": 444,
+    "timeYear": 521,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 911,
-    "timeDay": 1045,
-    "timeWeek": 722,
-    "timeMonth": 705,
-    "timeYear": 901,
+    "timeDay": 768,
+    "timeWeek": 713,
+    "timeMonth": 714,
+    "timeYear": 902,
     "dailyMinutesDown": {
       "2025-10-19": 22,
       "2025-10-10": 123,
@@ -59,8 +59,7 @@
       "2025-03-28": 23,
       "2025-03-22": 17,
       "2025-03-11": 29,
-      "2025-03-08": 24,
-      "2025-02-18": 17
+      "2025-03-08": 24
     }
   },
   {
@@ -74,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.40%",
-    "time": 750,
-    "timeDay": 829,
-    "timeWeek": 700,
-    "timeMonth": 695,
+    "time": 749,
+    "timeDay": 620,
+    "timeWeek": 682,
+    "timeMonth": 699,
     "timeYear": 751,
     "dailyMinutesDown": {
       "2025-10-10": 874,
@@ -118,8 +117,7 @@
       "2025-04-21": 23,
       "2025-03-28": 23,
       "2025-03-22": 15,
-      "2025-03-08": 22,
-      "2025-02-18": 16
+      "2025-03-08": 22
     }
   },
   {
@@ -128,18 +126,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/translator.ferdium.org.ico",
     "slug": "translator",
     "status": "down",
-    "uptime": "63.25%",
+    "uptime": "63.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.23%",
-    "time": 1185,
-    "timeDay": 677,
-    "timeWeek": 704,
-    "timeMonth": 674,
+    "time": 1184,
+    "timeDay": 511,
+    "timeWeek": 651,
+    "timeMonth": 672,
     "timeYear": 1299,
     "dailyMinutesDown": {
-      "2026-02-17": 148,
+      "2026-02-18": 152,
+      "2026-02-17": 1440,
       "2026-02-16": 1440,
       "2026-02-15": 1440,
       "2026-02-14": 1440,
@@ -502,8 +501,7 @@
       "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
-      "2025-02-19": 1440,
-      "2025-02-18": 1440
+      "2025-02-19": 1440
     }
   }
 ]
