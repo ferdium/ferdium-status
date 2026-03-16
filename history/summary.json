@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 512,
-    "timeDay": 493,
+    "timeDay": 299,
     "timeWeek": 409,
-    "timeMonth": 603,
-    "timeYear": 533,
+    "timeMonth": 598,
+    "timeYear": 532,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.63%",
     "time": 906,
-    "timeDay": 802,
-    "timeWeek": 688,
-    "timeMonth": 690,
-    "timeYear": 901,
+    "timeDay": 629,
+    "timeWeek": 714,
+    "timeMonth": 694,
+    "timeYear": 900,
     "dailyMinutesDown": {
       "2026-02-25": 184,
       "2025-10-19": 22,
@@ -73,10 +73,10 @@
     "uptimeMonth": "99.58%",
     "uptimeYear": "93.37%",
     "time": 749,
-    "timeDay": 731,
-    "timeWeek": 670,
-    "timeMonth": 713,
-    "timeYear": 741,
+    "timeDay": 698,
+    "timeWeek": 658,
+    "timeMonth": 718,
+    "timeYear": 740,
     "dailyMinutesDown": {
       "2026-02-25": 183,
       "2025-10-10": 874,
@@ -125,18 +125,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/translator.ferdium.org.ico",
     "slug": "translator",
     "status": "down",
-    "uptime": "62.00%",
+    "uptime": "61.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.23%",
     "time": 1172,
-    "timeDay": 773,
-    "timeWeek": 702,
-    "timeMonth": 723,
+    "timeDay": 825,
+    "timeWeek": 754,
+    "timeMonth": 731,
     "timeYear": 1297,
     "dailyMinutesDown": {
-      "2026-03-15": 163,
+      "2026-03-16": 163,
+      "2026-03-15": 1440,
       "2026-03-14": 1440,
       "2026-03-13": 1440,
       "2026-03-12": 1440,
@@ -499,8 +500,7 @@
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
-      "2025-03-17": 1440,
-      "2025-03-16": 1440
+      "2025-03-17": 1440
     }
   }
 ]
