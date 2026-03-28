@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 510,
-    "timeDay": 392,
-    "timeWeek": 382,
-    "timeMonth": 557,
+    "timeDay": 257,
+    "timeWeek": 370,
+    "timeMonth": 555,
     "timeYear": 533,
     "dailyMinutesDown": {}
   },
@@ -24,14 +24,14 @@
     "slug": "api-server",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "87.15%",
+    "uptimeDay": "96.01%",
     "uptimeWeek": "98.16%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.60%",
     "time": 906,
-    "timeDay": 2111,
-    "timeWeek": 1248,
-    "timeMonth": 858,
+    "timeDay": 788,
+    "timeWeek": 1250,
+    "timeMonth": 861,
     "timeYear": 914,
     "dailyMinutesDown": {
       "2026-03-27": 57,
@@ -58,8 +58,7 @@
       "2025-04-19": 28,
       "2025-04-15": 19,
       "2025-04-11": 25,
-      "2025-04-06": 18,
-      "2025-03-28": 23
+      "2025-04-06": 18
     }
   },
   {
@@ -68,18 +67,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/debug.ferdium.org.ico",
     "slug": "debugger",
     "status": "down",
-    "uptime": "98.08%",
-    "uptimeDay": "91.14%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "93.35%",
-    "time": 735,
-    "timeDay": 613,
-    "timeWeek": 643,
-    "timeMonth": 691,
+    "uptime": "98.05%",
+    "uptimeDay": "56.27%",
+    "uptimeWeek": "92.49%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "93.23%",
+    "time": 734,
+    "timeDay": 0,
+    "timeWeek": 644,
+    "timeMonth": 692,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2026-03-27": 0,
+      "2026-03-28": 151,
+      "2026-03-27": 479,
       "2026-03-26": 127,
       "2026-02-25": 183,
       "2025-10-10": 874,
@@ -117,8 +117,7 @@
       "2025-05-13": 17,
       "2025-05-09": 19,
       "2025-05-02": 20,
-      "2025-04-21": 23,
-      "2025-03-28": 23
+      "2025-04-21": 23
     }
   },
   {
@@ -127,18 +126,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/translator.ferdium.org.ico",
     "slug": "translator",
     "status": "down",
-    "uptime": "61.41%",
+    "uptime": "61.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.23%",
-    "time": 1166,
-    "timeDay": 476,
-    "timeWeek": 613,
-    "timeMonth": 720,
-    "timeYear": 1297,
+    "time": 1167,
+    "timeDay": 0,
+    "timeWeek": 608,
+    "timeMonth": 691,
+    "timeYear": 1299,
     "dailyMinutesDown": {
-      "2026-03-27": 962,
+      "2026-03-28": 151,
+      "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
@@ -501,8 +501,7 @@
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
-      "2025-03-29": 1440,
-      "2025-03-28": 1440
+      "2025-03-29": 1440
     }
   }
 ]
