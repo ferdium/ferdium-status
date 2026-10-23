@@ -2,6 +2,9 @@
 owner: ferdium # Your GitHub organization or username, where this repository lives
 repo: ferdium-status # The name of this repository
 
+workflowSchedule:
+  uptime: "1-59/5 * * * *"
+
 sites:
   - name: Website
     url: https://ferdium.org
